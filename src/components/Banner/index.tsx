@@ -14,7 +14,7 @@ export function Banner() {
                     <Text mt="4"> Chegou a hora de tirar do papel a viagem que você sempre sonhou.</Text>
                 </Box>
                 <Box>
-                    <Image src="airplane.png" />
+                    <Image mt="80px" src="airplane.png" />
                 </Box>
             </Flex>
         </Flex>
