@@ -16,7 +16,6 @@ export function IconsBox() {
                 px="6"
                 justify="space-between"
                 align="center"
-                color="#47585B"
             >
 
                 <Flex direction="column" align="center" >
